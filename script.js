@@ -8,4 +8,3 @@ submit.addEventListener('click', function(event) {
         alert('Passwords do not match!');
     }
 });
-
